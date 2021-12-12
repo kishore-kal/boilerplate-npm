@@ -5,8 +5,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "./views/index.html",
-	//"main": "server.js",
+	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},

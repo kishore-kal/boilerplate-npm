@@ -2,12 +2,19 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "KMAN66",
 	"description": "A project that will be awesome",
-	"keywords": ["descriptive","freecodecamp","tutorial","backend","challenge","coding"],
+	"keywords": [
+		"descriptive",
+		"freecodecamp",
+		"tutorial",
+		"backend",
+		"challenge",
+		"coding"
+	],
 	"license": "MIT",
 	"version": "1.66.4",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
